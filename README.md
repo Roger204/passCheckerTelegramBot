@@ -14,4 +14,5 @@ Supported commands are: </br>
 
 ## Example
 <p align="center">
+  <img src="https://github.com/Roger204/passCheckerTelegramBot/blob/main/PassCheckerTelegramBot_example.gif" width="200" ma />
 </p>
