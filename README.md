@@ -9,8 +9,10 @@ Telegram bot to verify if a password has been publicly leaked or not. It support
 
 ## Commands
 Supported commands are: </br>
-&nbsp;&nbsp;**sch:** Search -> Search raw password</br>
-&nbsp;&nbsp;**sc1:** Seach SHA1 -> Search SHA1 hased password</b
+&nbsp;&nbsp;**sch:** Search -> Search raw password </br>
+&nbsp;&nbsp;&nbsp;&nbsp; <ins>Command Format:</ins> sch password </br> </br>
+&nbsp;&nbsp;**sc1:** Seach SHA1 -> Search SHA1 hased password</br>
+&nbsp;&nbsp;&nbsp;&nbsp; <ins>Command Format:</ins> sc1 SHA1Password
 
 ## Example
 <p align="center">
